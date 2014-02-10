@@ -1,6 +1,8 @@
 # Bmreports
 
-TODO: Write a gem description
+This tool allows you to simply pull data from the bmreports API at:
+http://www.bmreports.com/bsp/additional/soapserver.php and use it in a hash 
+form.
 
 ## Installation
 
